@@ -1,9 +1,15 @@
+
+# A map for colleagues in the DHR Easements program
+Forked from the code below:
+
+---------
+
 # leaflet-storymaps-with-google-sheets
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative; now supports overlay
 
-## Live links (replace with your own)
-- Map http://datavizforall.github.io/leaflet-storymaps-with-google-sheets/index.html
-- Google Sheets template https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/
+## Live links 
+- Map http://aejolene.github.io/easements-storymap/index.html
+- Google Sheets template https://docs.google.com/spreadsheets/d/10jk1Lwz5_9hhPS-u430iXKueKshpg6FzChIsFSeu4-s/
 
 ## Create your own
 - See step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
