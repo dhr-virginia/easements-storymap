@@ -1,20 +1,24 @@
 
-# A map for colleagues in the DHR Easements program
-Forked from the code below:
+# A mini-exhibit map for colleagues in the DHR Easements program
+
+This story map was built for a kiosk at the [VaULT land conservation conference](https://vaunitedlandtrusts.org/annual-conference/) from April 8-10, 2019. The goal is to provide a quick interactive look at urban historic preservation easements held by DHR's Board of Historic Resources in Richmond. 
+
+Data here do not reflect the entirety of DHR easements, nor do they show all of the historic preservation easements in Richmond. To learn more about DHR's easement program, visit https://www.dhr.virginia.gov/easements/. 
+
+
+
+Forked from https://github.com/DataVizForAll/leaflet-storymaps-with-google-sheets, which allows colleagues the ability to add map content without code. See links to the full tutorial below.
+
 
 ---------
 
-# leaflet-storymaps-with-google-sheets
-Customize your Leaflet story map with linked Google Sheets template and scrolling narrative; now supports overlay
+
 
 ## Live links 
-- Map http://aejolene.github.io/easements-storymap/index.html
 - Google Sheets template https://docs.google.com/spreadsheets/d/10jk1Lwz5_9hhPS-u430iXKueKshpg6FzChIsFSeu4-s/
 
 ## Create your own
 - See step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
-
-### TO DO: review and clean up list below
 
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
